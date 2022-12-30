@@ -79,7 +79,7 @@ section {
 	height: 100vh;
 	width: 100%;
 	position: relative;
-	background:linear-gradient(to top, rgba(52, 50, 57, 0.404) 0%, rgba(47, 37, 44, 0.411) 100%), url(../img/_MG_6603.JPG);
+	background:linear-gradient(to top, rgba(52, 50, 57, 0.404) 0%, rgba(47, 37, 44, 0.411) 100%), url(../img/imagen3.JPG);
 	background-size: cover;
 	background-position: center;
 	display: flex;
