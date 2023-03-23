@@ -9,10 +9,11 @@
 }
 
 :root {
-	--bg-color: #76d0f1;
-	--text-color: #fff;
+	--bg-color: #ffffff;
+	--text-color: #000000;
+	--background-1: #9caae3;
 	--main-color: #eb4a4a;
-	--second-color: white;
+	--second-color: rgb(0, 0, 0);
 	--other-color: #12141c;
 	--h1-font: 5.2rem;
 	--h2-font: 3.5rem;
@@ -205,7 +206,7 @@ header.sticky {
 
 .box {
 	padding: 45px;
-	background: #12141c;
+	background: #9caae3;
 	border-top: 5px solid transparent;
 	border-radius: 0.5rem;
 	transition: all .40s ease;
@@ -251,7 +252,7 @@ header.sticky {
 
 .row {
 	padding: 25px;
-	background: #12141c;
+	background: var(--background-1);
 	border-radius: 0.5rem;
 	transition: all .40s ease;
 }
